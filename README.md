@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+👨🏽‍💻 Frontend Developer
+
+⚛️ PWA ReactJS
+
+🎨 UI / UX Design
+
+
 <!--
 **lucaspdroz/lucaspdroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspdroz)](https://www.linkedin.com/in/lucaspdroz)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaspdroz)](https://twitter.com/lucaspdroz)
