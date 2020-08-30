@@ -1,25 +1,23 @@
-### Hello, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hello, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 👨🏽‍💻 Frontend Developer
 
-⚛️ PWA ReactJS
+⚛️ ReactJS
 
 🎨 UI / UX Design
 
+🤖 Maker
 
-<!--
-**lucaspdroz/lucaspdroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧉 Based in Porto Alegre, Rio Grande do Sul.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&hide=html" alt="lucaspdroz" /></p>
+<p align="center"> Can you find me at: </p>
+<p align="center">
+<a href="https://linkedin.com/in/lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucaspdroz" height="30" width="30" /></a>
+<a href="https://twitter.com/lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucaspdroz" height="30" width="30" /></a>
+<a href="https://fb.com/lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lucaspdroz" height="30" width="30" /></a>
+<a href="mailto:lucaspdroz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lucaspdroz" height="30" width="30" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspdroz)](https://www.linkedin.com/in/lucaspdroz)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucaspdroz)](https://twitter.com/lucaspdroz)
+<!-- <a href="https://dribbble.com/lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="lucaspdroz" height="30" width="30" /></a> -->
+<!-- <a href="https://medium.com/@lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lucaspdroz" height="30" width="30" /></a> -->
+</p>
