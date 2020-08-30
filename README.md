@@ -27,7 +27,8 @@
 </br>
 </br>
 
-<details open>
+<!-- <details open> -->
+<details>
 <summary><b> 💻 Open Source Work Stats </b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,444444&count_private=true&hide=css,java,html'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,444444&hide=java,shell'/>
