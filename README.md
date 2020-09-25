@@ -4,7 +4,7 @@
 
 ⚛️ ReactJS
 
-🎨 UI / UX Designer
+🎨 UI / UX Designer Lover
 
 🤖 Maker
 
