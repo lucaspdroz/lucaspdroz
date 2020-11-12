@@ -39,7 +39,7 @@
 
 
 
-
+<!-- <footer> -->
 <p align="center"> <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%"> </p>
 <p align="center">
 <a href="https://linkedin.com/in/lucaspdroz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucaspdroz" height="30" width="30" /></a>
