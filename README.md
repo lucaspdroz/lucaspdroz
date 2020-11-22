@@ -1,4 +1,5 @@
 # Hello, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 👨🏽‍💻 Frontend Developer and Dark Theme Lover! 
 
