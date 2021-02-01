@@ -32,6 +32,12 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 <!-- <footer> -->
 
+## GitHub Stats and Most Used Languages  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lucaspdroz&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/lucaspdroz/github-readme-stats) 
+
+
 ## Redes Sociais
 
 [![Twitter: @Lucaspdroz](https://img.shields.io/twitter/follow/Lucaspdroz?style=social)](https://twitter.com/Lucaspdroz)
@@ -39,10 +45,3 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 [![GitHub lucaspdroz](https://img.shields.io/github/followers/lucaspdroz?label=follow&style=social)](https://github.com/lucaspdroz)  
 
 [![Linkedin: lucaspdroz](https://img.shields.io/badge/-lucaspdroz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspdroz/)](https://www.linkedin.com/in/lucaspdroz/)
-
-## GitHub Stats and Most Used Languages  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=lucaspdroz&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/lucaspdroz/github-readme-stats) 
-
-
