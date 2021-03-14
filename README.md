@@ -3,11 +3,11 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 👨🏽‍💻 Frontend Developer and Dark Theme Lover! 
 
-⚛️ ReactJS
+⚛️ React ❤ Typescript
 
 🎨 UI / UX Designer Lover
 
-🤖 Maker
+🤖 Maker!
 
 🧉 Based in Porto Alegre, Rio Grande do Sul.
 
