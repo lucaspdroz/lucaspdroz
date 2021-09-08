@@ -5,7 +5,7 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 👨🏽‍💻 Frontend Developer and Dark Theme Lover! 
 
-⚛️ React ❤ Typescript
+⚛️ React ❤ Javascript
 
 🤖 Maker!
 
