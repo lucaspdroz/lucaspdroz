@@ -9,7 +9,7 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 
 🤖 Maker!
 
-🧉 Based in Porto Alegre, Rio Grande do Sul.
+🧉 Based in Rio Grande do Sul.
 
 
 ### Languages and Tools:
