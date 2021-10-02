@@ -1,19 +1,20 @@
 # Hello, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Stay at `127.0.0.1`, wear a `255.255.255.0`
-
-🎨 UX Designer
-👨🏽‍💻 Frontend Developer and Dark Theme Lover! 
-⚛️ React ❤ Javascript
-🤖 Maker!
-🧉 Based in Rio Grande do Sul.
-
+ <ul style="list-style:none;">
+    <li>🎨 UX Designer</li>
+    <li> 👨🏽‍💻 Frontend Developer and Dark Theme Lover! </li>
+    <li> ⚛️ React ❤ Javascript</li>
+    <li>🤖 Maker!</li>
+    <li>🧉 Based in Rio Grande do Sul.</li>
+ <ul>
+ 
 ### Follow up my activity 👨‍💻
  <div>
   <a href="https://github.com/willianmano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-##### Languages, Libs & Frameworks:
+#### Languages, Libs & Frameworks:
 <div style="display: inline_block; display:flex; gap:15px;"><br>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
