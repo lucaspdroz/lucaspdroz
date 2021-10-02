@@ -9,11 +9,12 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
  <ul>
  
 ### Follow up my activity 👨‍💻
- <div>
-  <a href="https://github.com/lucaspdroz">
+<div>
+  <a href="https://github.com/lucaspdroz"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
 ### Languages, Libs & Frameworks:
 <div style="display: inline_block; display:flex; gap:15px;"><br>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
