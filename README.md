@@ -11,7 +11,7 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 ### Follow up my activity 👨‍💻
 <div>
   <a href="https://github.com/lucaspdroz"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&theme={document.documentElement.dataset.colorMode? 'dracula':'light'}&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
