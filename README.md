@@ -35,8 +35,8 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 </div>
  
 
- 
-<div> 
+ ### Contact me  📫  
+ <div> 
   <a href="https://www.instagram.com/lucaspdroz" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
