@@ -46,7 +46,4 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
   <a href="https://www.linkedin.com/in/lucaspdroz/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
-![Snake animation](assets/snake.svg)
-
 </div>
