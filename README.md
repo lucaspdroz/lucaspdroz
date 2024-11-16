@@ -1,11 +1,11 @@
 # Hello, I'm Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 Stay at `127.0.0.1`, wear a `255.255.255.0`
  <ul style="list-style:none;">
-    <li> 👨🏽‍💻 Frontend Developer and Dark Theme Lover! </li>
-    <li> ⚛️ React ❤ Typescript</li>
+    <li> 👨🏽‍💻 Software Engineer and Dark Theme Lover! </li>
     <li>🎨 UX Designer</li>
     <li>🤖 Maker!</li>
     <li>🧉 Based in Rio Grande do Sul.</li>
+    <li>🦆[Personal Blog](https://remote-ronin.vercel.app/)</li>
  <ul>
   
 ### Tools 
@@ -29,7 +29,6 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
 ### Follow up my activity 👨‍💻
 <div>
 <p align="left">
-   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucaspdroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucaspdroz's stats"/>
    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspdroz&layout=compact&theme=dracula" alt="lucaspdroz's most languages"/>
    </p>
 </div>
