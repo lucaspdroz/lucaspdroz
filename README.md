@@ -5,7 +5,7 @@ Stay at `127.0.0.1`, wear a `255.255.255.0`
     <li>🎨 UX Designer</li>
     <li>🤖 Maker!</li>
     <li>🧉 Based in Rio Grande do Sul.</li>
-    <li>🦆[Personal Blog](https://remote-ronin.vercel.app/)</li>
+    <li>🦆 <a href="https://remote-ronin.vercel.app/">Personal Blog</li>
  <ul>
   
 ### Tools 
